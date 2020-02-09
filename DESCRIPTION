@@ -1,0 +1,11 @@
+Package: predictionpackr
+Type: Package
+Title: Predictionpackr
+Version: 0.1.0
+Author: Celina Lindgren
+Maintainer: 
+Description: Package including all functions used in the project "Prediction models vs. clinicians"
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
